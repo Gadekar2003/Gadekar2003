@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gadekar2003&label=Profile%20views&color=0e75b6&style=flat" alt="gadekar2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gadekar2003" alt="gadekar2003" /></a> </p>
-
 - 🔭 I’m currently working on [Personal Finance Tracker](https://finance-tracker-six-snowy.vercel.app/)
 
 - 🌱 I’m currently learning **React.js,Node.js,TailwindCss**
