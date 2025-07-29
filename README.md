@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrutika Gadekar</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gadekar2003&label=Profile%20views&color=0e75b6&style=flat" alt="gadekar2003" /> </p>
-
 - 🔭 I’m currently working on [Personal Finance Tracker](https://finance-tracker-six-snowy.vercel.app/)
 
 - 🌱 I’m currently learning **React.js,Node.js,TailwindCss**
@@ -17,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shrutika-gadekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrutika-gadekar/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gadekar_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gadekar_123/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shrutika-gadekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutika-gadekar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gadekar_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gadekar_123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
